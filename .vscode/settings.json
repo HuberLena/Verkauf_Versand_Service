@@ -1,4 +1,0 @@
-{
-    "appService.deploySubpath": "dist\\verkauf-versand-service",
-    "appService.defaultWebAppToDeploy": "/subscriptions/67038eac-b740-49e9-8a13-46e39d7ac364/resourceGroups/Angular-Web-Lena/providers/Microsoft.Web/sites/chris"
-}
