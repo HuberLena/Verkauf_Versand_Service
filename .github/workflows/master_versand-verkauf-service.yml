@@ -52,6 +52,5 @@ jobs:
         id: deploy-to-webapp
         with:
           app-name: 'Versand-Verkauf-Service'
-          slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A54BE37C83E47408682DC5C36C0A853 }}
-          package: .
+          package: .dist/Verkauf_Verkauf_Service.
